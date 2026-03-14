@@ -2,14 +2,16 @@
 
 # apexplanet-task-1-basics-of-webdevelopment
 
-INTERN NAME:
+INTERN NAME: VENUSRI LAM 
 
-INTERN ID:
+INTERN ID:APSPL2630417
 
-DURATION:
+DURATION:4 WEEKS
 
-COMPANY NAME:
+COMPANY NAME:APEXPLANET 
 
+This project demonstrates the basics of web development using HTML, CSS, and JavaScript.
+It includes a simple webpage with headings, images, links, styling, and a button that triggers a JavaScript alert for basic interactivity.
 
 
 
